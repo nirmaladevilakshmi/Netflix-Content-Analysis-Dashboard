@@ -27,7 +27,17 @@ This project focuses on understanding Netflix content through:
 - 📊 Content distribution
 
 ---
+---
 
+## 📊 Dashboard Preview
+
+<div align="center">
+
+<img src="Netflix-Dashboard-Preview.png" alt="Netflix Content Analysis Dashboard" width="100%">
+
+</div>
+
+---
 ## 🎯 Project Objectives
 
 | 🎯 Objective | 📌 Description |
